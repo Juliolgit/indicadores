@@ -1,0 +1,148 @@
+﻿causa_id_nueva,causa_id,caLificacion_antigua,tipo_interrupcion,nombre_causa_nueva,nombre_causa_actual,tipo,calificacion
+15,1001,3,4,Orden de Autoridad Competente,Racionamiento con decreto vigente y programa de cortes avisado,Fuerza Mayor o Caso Fortuito,Externas
+32,1002,1,8,Externas a nivel de generacion o transmision,Blackout del Sistema,SEN,Externas
+32,1003,1,8,Externas a nivel de generacion o transmision,Programadas Generacion,SEN,Externas
+32,1004,1,8,Externas a nivel de generacion o transmision,Programadas Transmision,SEN,Externas
+32,1005,1,8,Externas a nivel de generacion o transmision,Programadas Subtransmision,Programadas STxCHQE,Externas
+32,1006,1,8,Externas a nivel de generacion o transmision,Operacion de bloque de baja frecuencia,SEN,Externas
+32,1007,1,8,Externas a nivel de generacion o transmision,Otros,SEN,Externas
+32,1008,1,8,Externas a nivel de generacion o transmision,Operacion erronea de interruptor / relé / protecciones (Gx/Tx),SEN,Externas
+32,1009,1,8,Externas a nivel de generacion o transmision,Falla en sistema de control  (Gx),SEN,Externas
+32,1010,1,8,Externas a nivel de generacion o transmision,Baja frecuencia (Gx/Tx),SEN,Externas
+32,1011,1,8,Externas a nivel de generacion o transmision,Sobre frecuencia (Gx/Tx),SEN,Externas
+32,1012,1,8,Externas a nivel de generacion o transmision,Interrupcion forzada por operacion de protecciones (Gx/Tx),SEN,Externas
+32,1013,1,8,Externas a nivel de generacion o transmision,Sobre tension en SUBESTACION (Gx/Tx),SEN,Externas
+32,1014,1,8,Externas a nivel de generacion o transmision,Baja tension en SUBESTACION (Gx/Tx),SEN,Externas
+32,1015,1,8,Externas a nivel de generacion o transmision,Falla en SUBESTACION (Gx/Tx),SEN,Externas
+32,1016,1,8,Externas a nivel de generacion o transmision,Conductor cortado (Gx/Tx),SEN,Externas
+32,1017,1,8,Externas a nivel de generacion o transmision,Trabajos en instalaciones (Gx/Tx),SEN,Externas
+32,1018,1,8,Externas a nivel de generacion o transmision,Accion de terceros (Gx/Tx),SEN,Externas
+32,1019,1,8,Externas a nivel de generacion o transmision,Falla en servicios auxiliares de la CENTRAL (Gx),SEN,Externas
+32,1020,1,8,Externas a nivel de generacion o transmision,Perdida de vacío de la unidad generadora (Gx),SEN,Externas
+32,1021,1,8,Externas a nivel de generacion o transmision,Perdida de llama en unidad generadora (Gx),SEN,Externas
+32,1022,1,8,Externas a nivel de generacion o transmision,Cierre de válvula reguladora de gas de unidad generadora (Gx),SEN,Externas
+32,1023,1,8,Externas a nivel de generacion o transmision,Run back en unidad generadora (Gx),SEN,Externas
+32,1024,1,8,Externas a nivel de generacion o transmision,Error operativo en CENTRAL (Gx),SEN,Externas
+32,1025,1,8,Externas a nivel de generacion o transmision,Falla en cliente no regulado o libre (Gx),SEN,Externas
+32,1026,1,8,Externas a nivel de generacion o transmision,Flash over en LINEA (Gx),SEN,Externas
+32,1027,1,8,Externas a nivel de generacion o transmision,Falla en sensor de temperatura (Gx),SEN,Externas
+32,1028,1,8,Externas a nivel de generacion o transmision,Obstruccion por algas agua refrigeracion (Gx),SEN,Externas
+32,1029,1,8,Externas a nivel de generacion o transmision,Alta presion hogar en unidad generadora (Gx),SEN,Externas
+32,1030,1,8,Externas a nivel de generacion o transmision,Intempestivas de Generacion ,SEN,Externas
+32,1031,1,8,Externas a nivel de generacion o transmision,Intempestivas de Transmision,SEN,Externas
+32,1032,1,8,Externas a nivel de generacion o transmision,Intempestivas de Subtransmision,Fallas STx CHQE,Externas
+1,1101,2,4,Daño en la infraestructura por eventos catastroficos de la naturaleza,Temporal o viento fuerte,Falla,Condiciones Atmosféricas
+1,1102,2,4,Daño en la infraestructura por eventos catastroficos de la naturaleza,Temperatura extrema alta,Falla,Condiciones Atmosféricas
+1,1103,2,4,Daño en la infraestructura por eventos catastroficos de la naturaleza,Temperatura extrema baja,Falla,Condiciones Atmosféricas
+14,1104,2,1,Hielo nieve o granizo,Hielo,Falla,Condiciones Atmosféricas
+14,1105,2,1,Hielo nieve o granizo,Lluvia,Falla,Condiciones Atmosféricas
+14,1106,2,1,Hielo nieve o granizo,Nieve ,Falla,Condiciones Atmosféricas
+14,1107,2,1,Hielo nieve o granizo,Granizo,Falla,Condiciones Atmosféricas
+13,1108,3,4,Descarga atmosférica,Descarga eléctrica (Rayo,Fuerza Mayor o Caso Fortuito,Condiciones Atmosféricas
+14,1109,2,1,Hielo nieve o granizo,Fuerte Neblina,Falla,Condiciones Atmosféricas
+14,1110,2,1,Hielo nieve o granizo,Ambiente Salino,Falla,Condiciones Atmosféricas
+1,1111,2,4,Daño en la infraestructura por eventos catastroficos de la naturaleza,Otros,Falla,Condiciones Atmosféricas
+12,1201,3,4,Accion del agua o de objetos arrastrados,Inundaciones,Fuerza Mayor o Caso Fortuito,Eventos Catastrofico
+3,1202,3,4,Incendio,Incendios,Fuerza Mayor o Caso Fortuito,Eventos Catastrofico
+6,1203,3,4,Impacto de elementos por un deslizamiento de tierra aluvion o socavon,Aluvion,Fuerza Mayor o Caso Fortuito,Eventos Catastrofico
+6,1204,3,4,Impacto de elementos por un deslizamiento de tierra aluvion o socavon,Deslizamiento de suelo o de tierra,Fuerza Mayor o Caso Fortuito,Eventos Catastrofico
+1,1206,3,4,Daño en la infraestructura por eventos catastroficos de la naturaleza,Movimientos Telúricos,Fuerza Mayor o Caso Fortuito,Eventos Catastrofico
+1,1207,2,4,Daño en la infraestructura por eventos catastroficos de la naturaleza,Otros,Falla,Eventos Catastrofico
+3,1301,3,4,Incendio,Calor excesivo debido a incendio,Fuerza Mayor o Caso Fortuito,Incendio no debido a fallas
+16,1302,3,4,Solicitud de Organismos de emergencia o de Orden,Intervencion a solicitud de bomberos,Fuerza Mayor o Caso Fortuito,Incendio no debido a fallas
+3,1303,3,4,Incendio,Quemas de Pastizales,Fuerza Mayor o Caso Fortuito,Incendio no debido a fallas
+3,1304,2,4,Incendio,Otros,Falla,Incendio no debido a fallas
+11,1401,2,1,Accion de animales,Mamíferos,Falla,Animales
+11,1402,2,1,Accion de animales,Aves,Falla,Animales
+11,1403,2,1,Accion de animales,Insectos,Falla,Animales
+11,1404,2,1,Accion de animales,Roedores,Falla,Animales
+11,1405,2,1,Accion de animales,Otros,Falla,Animales
+17,1501,2,4,Impacto de objeto sobre las instalaciones por acciones de terceros,Volantines,Falla,Juegos personas
+17,1502,2,4,Impacto de objeto sobre las instalaciones por acciones de terceros,Pelotazos,Falla,Juegos personas
+17,1503,2,4,Impacto de objeto sobre las instalaciones por acciones de terceros,Otros,Falla,Juegos personas
+20,1601,3,4,Choque de Vehículos a instalaciones eléctricas,Choque de vehículo a poste,Fuerza Mayor o Caso Fortuito,Accidentes
+20,1602,3,4,Choque de Vehículos a instalaciones eléctricas,Choque de vehículo a tirante,Fuerza Mayor o Caso Fortuito,Accidentes
+18,1603,3,4,Intervencion de terceros,Daño debido a faena en propiedad particular,Fuerza Mayor o Caso Fortuito,Accidentes
+20,1604,3,4,Choque de Vehículos a instalaciones eléctricas,Accidente aéreo,Fuerza Mayor o Caso Fortuito,Accidentes
+20,1605,3,4,Choque de Vehículos a instalaciones eléctricas,Maquina retroexcavadora,Fuerza Mayor o Caso Fortuito,Accidentes
+18,1606,3,4,Intervencion de terceros,Deslizamiento de tierra por trabajos,Fuerza Mayor o Caso Fortuito,Accidentes
+20,1607,2,4,Choque de Vehículos a instalaciones eléctricas,Otros,Falla,Accidentes
+18,1608,3,4,Intervencion de terceros,Acto temerario ( suicidio o intento de suicidio ),Fuerza Mayor o Caso Fortuito,Accidentes
+17,1701,3,4,Impacto de objeto sobre las instalaciones por acciones de terceros,Objeto alambre o cadena lanzada,Fuerza Mayor o Caso Fortuito,Actos vandálicos
+18,1702,3,4,Intervencion de terceros,Atentado / explosivos,Fuerza Mayor o Caso Fortuito,Actos vandálicos
+18,1703,3,4,Intervencion de terceros,Disturbios en la zona,Fuerza Mayor o Caso Fortuito,Actos vandálicos
+19,1704,3,4,Robo o Hurto de elementos,Robo conductor ,Fuerza Mayor o Caso Fortuito,Actos vandálicos
+19,1705,3,4,Robo o Hurto de elementos,Robo de equipo,Fuerza Mayor o Caso Fortuito,Actos vandálicos
+19,1706,3,4,Robo o Hurto de elementos,Hurto energía,Fuerza Mayor o Caso Fortuito,Actos vandálicos
+18,1707,2,4,Intervencion de terceros,Otros,Falla,Actos vandálicos
+18,1708,3,4,Intervencion de terceros,Sabotaje,Fuerza Mayor o Caso Fortuito,Actos vandálicos
+4,1801,2,1,Caída de árbol,Caída de árbol,Falla,Árboles
+5,1802,2,1,Impacto de ganchos ramas u otro tipo de vegetacion,Caída de gancho o rama,Falla,Árboles
+8,1803,3,1,Poda o Tala de arboles o roce de la vegetacion,Daño por faena de empresa forestal,Fuerza Mayor o Caso Fortuito,Árboles
+8,1804,2,1,Poda o Tala de arboles o roce de la vegetacion,Cliente efectúa poda propia indebida ,Falla,Árboles
+8,1805,2,1,Poda o Tala de arboles o roce de la vegetacion,Municipalidad efectúa poda propia indebida,Falla,Árboles
+8,1806,2,1,Poda o Tala de arboles o roce de la vegetacion,Cliente no efectúa poda propia o no la permite,Falla,Árboles
+8,1807,2,1,Poda o Tala de arboles o roce de la vegetacion,Municipalidad no efectúa poda propia o  no la permite,Falla,Árboles
+8,1808,2,1,Poda o Tala de arboles o roce de la vegetacion,Daño directo en la red por ejecucion de podas ,Falla,Árboles
+8,1809,2,1,Poda o Tala de arboles o roce de la vegetacion,Sector sin podar o mal podado por parte de la Concesionaria,Falla,Árboles
+4,1810,2,1,Caída de árbol,Otros,Falla,Árboles
+21,1901,3,4,Arrastre de instalaciones eléctricas,Vehículo > 450 m de altura bota cable de distribucion,Fuerza Mayor o Caso Fortuito,Por Vehículos
+22,1902,3,4,Arrastre de instalaciones de comunicaciones,Vehículo > 450 m de altura bota cable de comunicaciones,Fuerza Mayor o Caso Fortuito,Por Vehículos
+21,1903,3,4,Arrastre de instalaciones eléctricas,Vehículo > 450 m de altura bota empalme o acometida,Fuerza Mayor o Caso Fortuito,Por Vehículos
+21,1904,2,4,Arrastre de instalaciones eléctricas,Red de distribucion a baja altura debido a apoyos deficientes,Falla,Por Vehículos
+21,1905,2,4,Arrastre de instalaciones eléctricas,Acometidas fuera de norma (baja altura),Falla,Por Vehículos
+18,1906,2,4,Intervencion de terceros,Colocacion de lienzos,Falla,Por Vehículos
+22,1907,2,4,Arrastre de instalaciones de comunicaciones,Cable de comunicaciones a baja altura,Falla,Por Vehículos
+20,1908,2,4,Choque de Vehículos a instalaciones eléctricas,Otros,Falla,Por Vehículos
+28,2001,2,1,Diseño y/o construccion,Capacidad insuficiente de S/E,Falla,Instalaciones de clientes
+33,2002,2,8,Externas a nivel de distribucion,Falla en artefacto eléctrico,Otros,Instalaciones de clientes
+33,2003,2,8,Externas a nivel de distribucion,Problema neutro o puesta a tierra,Otros,Instalaciones de clientes
+33,2004,2,8,Externas a nivel de distribucion,Poste cliente inclinado / quebrado,Otros,Instalaciones de clientes
+33,2005,2,8,Externas a nivel de distribucion,Traslado medidor por terceros,Otros,Instalaciones de clientes
+33,2006,2,8,Externas a nivel de distribucion,Perdida de aislacion de transformador particular,Otros,Instalaciones de clientes
+34,2007,2,5,Interrupcion a solicitud de usuario,Desconexion a solicitud del cliente,Interrupcion a solicitud de Cliente,Instalaciones de clientes
+33,2008,2,8,Externas a nivel de distribucion,Otros,Otros,Instalaciones de clientes
+31,2101,2,1,origen no determinado,Reposicion fuera de plazo,Falla,Corte y reposicion
+31,2102,2,1,origen no determinado,Corte de suministro errado o improcedente,Falla,Corte y reposicion
+31,2103,2,1,origen no determinado,Reposicion deficiente que origina corte,Falla,Corte y reposicion
+31,2104,2,1,origen no determinado,Otros,Falla,Corte y reposicion
+30,2201,2,1,Defecto de material o equipo,Operacion imprevista de equipo,Falla,Operacion de la red
+28,2202,2,1,Diseño y/o construccion,Error de operacion,Falla,Operacion de la red
+30,2203,2,1,Defecto de material o equipo,Falla de material,Falla,Operacion de la red
+30,2204,2,1,Defecto de material o equipo,Falla en equipo (no debida a 2401 ni a 2402),Falla,Operacion de la red
+28,2205,2,1,Diseño y/o construccion,Falla en trabajo con línea viva,Falla,Operacion de la red
+28,2206,2,1,Diseño y/o construccion,Otros,Falla,Operacion de la red
+26,2301,2,1,Sobrecarga,Desequilibrio de cargas,Falla,Sobrecarga
+26,2302,2,1,Sobrecarga,Aumento de carga en faena de construccion,Falla,Sobrecarga
+26,2303,2,1,Sobrecarga,Capacidad insuficiente por nueva urbanizacion,Falla,Sobrecarga
+26,2304,2,1,Sobrecarga,Crecimiento de la demanda del sector,Falla,Sobrecarga
+26,2305,2,1,Sobrecarga,Otros,Falla,Sobrecarga
+30,2401,2,1,Defecto de material o equipo,Envejecimiento de materiales,Falla,Mantenimiento
+29,2402,2,1,Falta de mantenimiento o mantenimiento mal ejecutado,Falta de mantenimiento,Falla,Mantenimiento
+29,2403,2,1,Falta de mantenimiento o mantenimiento mal ejecutado,Falla por contaminacion industrial en el área,Falla,Mantenimiento
+30,2404,2,1,Defecto de material o equipo,Corrosion,Falla,Mantenimiento
+29,2405,2,1,Falta de mantenimiento o mantenimiento mal ejecutado,Falla por contacto personal ,Falla,Mantenimiento
+29,2406,2,1,Falta de mantenimiento o mantenimiento mal ejecutado,Lavado de aisladores,Falla,Mantenimiento
+29,2407,2,1,Falta de mantenimiento o mantenimiento mal ejecutado,Otros,Falla,Mantenimiento
+28,2501,2,1,Diseño y/o construccion,Construccion deficiente,Falla,Construccion y equipos
+30,2502,2,1,Defecto de material o equipo,Perdida de aislacion,Falla,Construccion y equipos
+30,2503,2,1,Defecto de material o equipo,Ruptura de pieza seccionador,Falla,Construccion y equipos
+28,2504,2,1,Diseño y/o construccion,Otros,Falla,Construccion y equipos
+28,2601,2,1,Diseño y/o construccion,Operacion (maniobra) media tension ,Falla,Auto producidos
+28,2602,2,1,Diseño y/o construccion,Operacion (maniobra) baja tension,Falla,Auto producidos
+28,2603,2,1,Diseño y/o construccion,Normalizacion de reconexion provisoria,Falla,Auto producidos
+28,2604,2,1,Diseño y/o construccion,Prestacion servicio (escolta evento apoyo),Falla,Auto producidos
+23,2605,2,2,Desconexion programada,Incorporacion de nuevos clientes,Desconexion Programada,Auto producidos
+25,2606,2,2,Desconexiones programadas por obras en la red que permiten mejorar los estándares de calidad de suministro o producto,Obras nuevas o modificacion de ingeniería,Desconexion Programada,Auto producidos
+23,2607,2,2,Desconexion programada,Mantenimiento preventivo,Desconexion Programada,Auto producidos
+23,2608,2,2,Desconexion programada,Corte programado (excluido 2607),Desconexion Programada,Auto producidos
+29,2609,2,1,Falta de mantenimiento o mantenimiento mal ejecutado,Otros,Falla,Auto producidos
+31,2701,2,1,origen no determinado,Origen no determinado,Falla,Otros no clasificados
+26,2702,2,1,Sobrecarga,Causas Fugaces o  Flicker,Falla,Otros no clasificados
+10,3401,2,1,Contacto con objeto,Contacto con objeto,Falla,Contacto con objeto
+35,3501,2,6,Desconexiones programadas por conexion de un PMGD y/o EG o por modificaciones de trazado de red que excede el tiempo presupuestado,NA,Exceso Duracion Desconexion Programada,NA
+24,3502,2,2,Desc prog por conexion de un PMGD y/o EG o por modificaciones de trazado de red,Desc prog por conexion de un PMGD y/o EG o por modificaciones de trazado de red,Desconexion Programada,Desc prog por conexion de un PMGD y/o EG o por modificaciones de trazado de red
+27,3507,2,6,Desconexion programada que excede el tiempo presupuestado,NA,Exceso Duracion Desconexion Programada,NA
+36,3601,2,6,Desconexiones programadas por obras en la red que permiten mejorar los estándares de calidad de suministro o producto  que excede el tiempo presupuestado,NA,Exceso Duracion Desconexion Programada,NA
+7,7001,3,4,Impacto de elementos por un maremoto o un tsunami,Impacto de elementos por un maremoto o un tsunami,Fuerza Mayor o Caso Fortuito,Impacto de elementos por un maremoto o un tsunami
+9,9001,2,1,Impacto de objetos,Impacto de objetos,Falla,Impacto de objetos
